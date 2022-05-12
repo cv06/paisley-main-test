@@ -1,0 +1,35 @@
+/* this applies to the whole site */
+html {
+	margin: 0;
+	padding: 0;
+	width: auto;
+	height: auto;
+	font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	width: auto;
+	height: auto;
+}
+
+.nav-container {
+	margin: 0;
+	background-color: rgba(0, 0, 0, .6);
+	color: #fff;
+}
+
+header {
+	margin: 0;
+	padding: 0;
+}
+
+header div nav a {
+	text-decoration: none;
+	color: white;
+}
+
+#footer {
+	margin-top: 25rem;
+}
